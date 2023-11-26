@@ -1,0 +1,14 @@
+{
+  "name": "df32d3c22ae8fbb8",
+  "main": "df32d3c22ae8fbb8@22.js",
+  "version": "22.0.0",
+  "homepage": "https://observablehq.com/d/df32d3c22ae8fbb8",
+  "author": {
+    "name": "北科大-陳姸臻's Workspace",
+    "url": "https://observablehq.com/@bei-ke-da-chen-yan-zhen-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
